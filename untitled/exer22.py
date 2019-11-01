@@ -1,0 +1,12 @@
+thislist=[2,3,6,53,9]
+print(thislist)
+thislist.insert(1,45)
+print(thislist)
+thislist.insert(2,10)
+print(thislist)
+thislist.pop()
+print(thislist)
+thislist.remove(6)
+print(thislist)
+thislist.reverse()
+print(thislist)
